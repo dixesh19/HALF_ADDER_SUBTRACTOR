@@ -1,3 +1,7 @@
+# DINESH R
+
+# 212224240037
+
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
