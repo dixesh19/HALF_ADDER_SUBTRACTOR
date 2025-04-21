@@ -2,7 +2,7 @@
 
 # 212224240037
 
-#EXP.NO:2 HALF_ADDER_SUBTRACTOR
+# EXP.NO:2 HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
